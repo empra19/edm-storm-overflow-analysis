@@ -1,6 +1,6 @@
-# EDM Storm Overflow Analysis — 🚧 Work in Progress
+# EDM Storm Overflow Analysis (ongoing)
 
-An analysis and visualisation of storm overflow spill data across England's water companies, using the Environment Agency's Event Duration Monitoring (EDM) annual returns. Built in Power BI and Tableau as part of a data analytics portfolio.
+An analysis and visualisation of storm overflow spill data across England's water companies, using the Environment Agency's Event Duration Monitoring (EDM) annual returns. Built in Power BI as part of a data analytics portfolio.
 
 ---
 
